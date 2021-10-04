@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rustixir
-- 👀 I’m interested in Rust + Elixir  = Power and Beauty
-- 🌱 I’m currently learning Elixir
+- 👀 I’m interested in Rust = Power and Beauty
+- 🌱 I’m currently writing infrastructure for my own company
 
 
 
