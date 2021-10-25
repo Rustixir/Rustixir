@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rustixir
-- 👀 I’m interested in Rust = Power and Beauty
+- 👀 I’m interested in Rust / Distributed / RealTime Application / In-memory Database 
 - 🌱 I’m currently writing infrastructure for my own company
 
 
