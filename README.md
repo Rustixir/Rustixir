@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rustixir
-- 👀 I’m interested in Rust / Distributed / RealTime Application / In-memory Database 
-- 🌱 I’m currently writing infrastructure for my own company
+- 👀 I’m interested in Distributed / RealTime infrastructure / In-memory Database 
+- 🌱 I’m currently working on duplicate OTP for Rust
 
 
 
