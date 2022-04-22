@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Rustixir
 - 👀 I’m interested in Distributed / RealTime infrastructure / In-memory Database 
 - 🌱 I’m currently working on duplicate OTP for Rust
-
-
-whatsapp : (+98) 9370156893
+-    Whatsapp : (+98) 9370156893
 
 <!---
 Rustixir/Rustixir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
