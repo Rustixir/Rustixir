@@ -1,4 +1,4 @@
-- 👋 Hi, DanyalMh
+- 👋 Hi, I'm DanyalMh
 - 👀 I’m interested in Distributed / RealTime infrastructure / In-memory Database 
 - 🌱 I’m currently working on distributed in-memory database for Rust
 -    Whatsapp : (+98) 9370156893
