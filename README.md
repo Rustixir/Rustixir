@@ -3,7 +3,15 @@
 - 🌱 I’m currently working on distributed in-memory database for Rust
 -    Whatsapp : (+98) 9370156893
 
+-    All libraries writen by me
+<div align="center">
 
+  <!-- Downloads -->
+  <a href="https://crates.io/crates/Rustixir">
+    <img src="https://img.shields.io/crates/d/Rustixir.svg?style=flat-square"
+      alt="Download" />
+  </a>
+</div>
 
 
 
