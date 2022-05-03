@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on distributed in-memory database for Rust
 -    Whatsapp : (+98) 9370156893
 
--    All libraries writen by me 
+-    All libraries are written by me :
   <!-- Downloads -->
   <a href="https://crates.io/crates/rstorage">
     <img src="https://img.shields.io/crates/d/rstorage.svg?style=flat-square"
@@ -17,15 +17,20 @@
   </a>
   
   <!-- Downloads -->
-  <a href="https://crates.io/crates/whitepool">
-    <img src="https://img.shields.io/crates/d/whitepool.svg?style=flat-square"
+  <a href="https://crates.io/crates/darkbird">
+    <img src="https://img.shields.io/crates/d/darkbird.svg?style=flat-square"
       alt="Download" />
   </a>
   
+  <!-- Downloads -->
+  <a href="https://crates.io/crates/disk_log">
+    <img src="https://img.shields.io/crates/d/disk_log.svg?style=flat-square"
+      alt="Download" />
+  </a>
   
   <!-- Downloads -->
-  <a href="https://crates.io/crates/darkbird">
-    <img src="https://img.shields.io/crates/d/darkbird.svg?style=flat-square"
+  <a href="https://crates.io/crates/whitepool">
+    <img src="https://img.shields.io/crates/d/whitepool.svg?style=flat-square"
       alt="Download" />
   </a>
   
