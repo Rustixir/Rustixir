@@ -4,7 +4,7 @@
 
 -    Whatsapp : (+98) 937 015 6893  
 
--    All libraries are written by me :
+-    All libraries are written by me:
 
 
   rstorage/durableMap<!-- Downloads -->
