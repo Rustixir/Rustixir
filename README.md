@@ -2,8 +2,7 @@
 - 👀 I’m interested in Distributed / RealTime / In-memory Database 
 - 🌱 I’m currently working on distributed in-memory database for Rust
 
--    Whatsapp : (+98) 9370156893  <a href="whatsapp://send?abid=09370156893&text=Hello%2C%20World!">Send Message</a>
-
+-    Whatsapp : (+98) 9370156893  
 
 -    All libraries are written by me :
   <!-- Downloads -->
