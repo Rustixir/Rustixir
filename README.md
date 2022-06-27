@@ -37,6 +37,12 @@
       alt="Download" />
   </a>
   
+  tokio_sky<!-- Downloads -->
+  <a href="https://crates.io/crates/tokio_sky">
+    <img src="https://img.shields.io/crates/d/tokio_sky.svg?style=flat-square"
+      alt="Download" />
+  </a>
+  
 </div>
 
 
