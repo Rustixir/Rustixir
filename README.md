@@ -1,5 +1,5 @@
 - 👋 Hi, I'm DanyalMh
-- 👀 I’m interested in Distributed / RealTime / In-memory Database 
+- 👀 I’m interested in Rust , Erlang 
 - 🌱 I’m currently working on distributed in-memory database for Rust
 
 -    Whatsapp : (+98) 937 015 6893  
