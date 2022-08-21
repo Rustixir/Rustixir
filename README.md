@@ -7,7 +7,7 @@
 -    All libraries are written by me:
 
 
-  rstorage/durableMap<!-- Downloads -->
+  rstorage<!-- Downloads -->
   <a href="https://crates.io/crates/rstorage">
     <img src="https://img.shields.io/crates/d/rstorage.svg?style=flat-square"
       alt="Download" />
