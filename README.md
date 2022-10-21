@@ -7,6 +7,12 @@
 -    All libraries are written by me:
 
 
+  darkbird<!-- Downloads -->
+  <a href="https://crates.io/crates/darkbird">
+    <img src="https://img.shields.io/crates/d/darkbird.svg?style=flat-square"
+      alt="Download" />
+  </a>
+
   rstorage<!-- Downloads -->
   <a href="https://crates.io/crates/rstorage">
     <img src="https://img.shields.io/crates/d/rstorage.svg?style=flat-square"
@@ -19,11 +25,6 @@
       alt="Download" />
   </a>
   
-  darkbird<!-- Downloads -->
-  <a href="https://crates.io/crates/darkbird">
-    <img src="https://img.shields.io/crates/d/darkbird.svg?style=flat-square"
-      alt="Download" />
-  </a>
   
   disk_log<!-- Downloads -->
   <a href="https://crates.io/crates/disk_log">
