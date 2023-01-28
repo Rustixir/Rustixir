@@ -6,12 +6,6 @@
 
 -    All libraries are written by me:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rustixir&show_icons=true&theme=radical" height=165>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustixir&layout=compact&theme=radical" height=165>
-</p>
-
-
   darkbird<!-- Downloads -->
   <a href="https://crates.io/crates/darkbird">
     <img src="https://img.shields.io/crates/d/darkbird.svg?style=flat-square"
@@ -50,6 +44,11 @@
   </a>
   
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rustixir&show_icons=true&theme=radical" height=165>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustixir&layout=compact&theme=radical" height=165>
+</p>
 
 
 
