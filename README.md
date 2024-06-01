@@ -9,6 +9,12 @@
       alt="Download" />
   </a>
 
+joker_query<!-- Downloads -->
+ <a href="https://crates.io/crates/joker_query">
+    <img src="https://img.shields.io/crates/d/joker_query.svg?style=flat-square"
+      alt="Download" />
+  </a>  
+
   rstorage<!-- Downloads -->
   <a href="https://crates.io/crates/rstorage">
     <img src="https://img.shields.io/crates/d/rstorage.svg?style=flat-square"
